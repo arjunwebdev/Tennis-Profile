@@ -1,0 +1,38 @@
+.player-image {
+  width: 100%;
+  height: 100%;
+}
+.custom-button {
+  margin-top: 15px;
+  width: 100%;
+  font-size: 20px;
+}
+.modal-title {
+  font-size: 30px;
+  color: blue;
+}
+.carousel-caption {
+  font-size: 30px;
+  color: pink;
+}
+.item img{
+  width: 80%;
+}
+.col-sm {
+  float left:
+}
+
+/* Utility Classes */
+.align-left {
+  text-align: left;
+}
+.align-right {
+  text-align: right;
+}
+.align-center {
+  text-align: center;
+}
+.image-container {
+  width: 100%;
+  height: 450px;
+}
